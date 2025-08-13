@@ -1,3 +1,3 @@
 # TodoApp
 
-Studiung MVVM architecture with Jetpack Compose
+Studying MVVM architecture with Jetpack Compose
